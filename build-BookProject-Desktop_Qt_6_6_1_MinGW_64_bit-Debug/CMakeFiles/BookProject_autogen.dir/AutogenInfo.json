@@ -141,6 +141,12 @@
 			"MU",
 			"EWIEGA46WW/moc_book.cpp",
 			null
+		],
+		[
+			"C:/Users/Sequence/Desktop/Fourth&FinalYear/COS3711 - Advanced Programming/Assignment 3/BookProject/bookwriter.h",
+			"MU",
+			"EWIEGA46WW/moc_bookwriter.cpp",
+			null
 		]
 	],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
@@ -210,6 +216,11 @@
 	[
 		[
 			"C:/Users/Sequence/Desktop/Fourth&FinalYear/COS3711 - Advanced Programming/Assignment 3/BookProject/book.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/Sequence/Desktop/Fourth&FinalYear/COS3711 - Advanced Programming/Assignment 3/BookProject/bookwriter.cpp",
 			"MU",
 			null
 		],

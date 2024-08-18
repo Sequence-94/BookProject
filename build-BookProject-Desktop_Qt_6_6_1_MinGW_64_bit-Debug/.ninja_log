@@ -1,75 +1,50 @@
 # ninja log v6
-39	246	7456884710579032	BookProject_autogen/timestamp	79381e2a8d6c0c80
-39	246	7456884710579032	BookProject_autogen/mocs_compilation.cpp	79381e2a8d6c0c80
-39	246	7456884710579032	C:/Users/Sequence/Desktop/Fourth&FinalYear/COS3711 - Advanced Programming/Assignment 3/build-BookProject-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/BookProject_autogen/mocs_compilation.cpp	79381e2a8d6c0c80
-39	246	7456884710579032	C:/Users/Sequence/Desktop/Fourth&FinalYear/COS3711 - Advanced Programming/Assignment 3/build-BookProject-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/BookProject_autogen/timestamp	79381e2a8d6c0c80
-3364	3533	7456884743821704	BookProject.exe	74bb2a250e27b8b4
-251	3364	7456884712697257	CMakeFiles/BookProject.dir/main.cpp.obj	d273c5951cc54dbc
-255	3265	7456884712729028	CMakeFiles/BookProject.dir/book.cpp.obj	4ff53dc2a3b3a981
-247	3266	7456884712652012	CMakeFiles/BookProject.dir/BookProject_autogen/mocs_compilation.cpp.obj	ea2671bf8b678e24
-44	241	7456887248888325	BookProject_autogen/timestamp	79381e2a8d6c0c80
-44	241	7456887248888325	BookProject_autogen/mocs_compilation.cpp	79381e2a8d6c0c80
-44	241	7456887248888325	C:/Users/Sequence/Desktop/Fourth&FinalYear/COS3711 - Advanced Programming/Assignment 3/build-BookProject-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/BookProject_autogen/timestamp	79381e2a8d6c0c80
-44	241	7456887248888325	C:/Users/Sequence/Desktop/Fourth&FinalYear/COS3711 - Advanced Programming/Assignment 3/build-BookProject-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/BookProject_autogen/mocs_compilation.cpp	79381e2a8d6c0c80
-242	3555	7456887250871642	CMakeFiles/BookProject.dir/BookProject_autogen/mocs_compilation.cpp.obj	ea2671bf8b678e24
-251	3578	7456887250961407	CMakeFiles/BookProject.dir/book.cpp.obj	4ff53dc2a3b3a981
-51	219	7456887353687711	BookProject_autogen/timestamp	79381e2a8d6c0c80
-51	219	7456887353687711	BookProject_autogen/mocs_compilation.cpp	79381e2a8d6c0c80
-51	219	7456887353687711	C:/Users/Sequence/Desktop/Fourth&FinalYear/COS3711 - Advanced Programming/Assignment 3/build-BookProject-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/BookProject_autogen/timestamp	79381e2a8d6c0c80
-51	219	7456887353687711	C:/Users/Sequence/Desktop/Fourth&FinalYear/COS3711 - Advanced Programming/Assignment 3/build-BookProject-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/BookProject_autogen/mocs_compilation.cpp	79381e2a8d6c0c80
-228	3363	7456887355452951	CMakeFiles/BookProject.dir/book.cpp.obj	4ff53dc2a3b3a981
-220	3368	7456887355373108	CMakeFiles/BookProject.dir/BookProject_autogen/mocs_compilation.cpp.obj	ea2671bf8b678e24
-224	3460	7456887355408362	CMakeFiles/BookProject.dir/main.cpp.obj	d273c5951cc54dbc
-3460	3630	7456887387778546	BookProject.exe	74bb2a250e27b8b4
-56	219	7456887832215472	BookProject_autogen/timestamp	79381e2a8d6c0c80
-56	219	7456887832215472	BookProject_autogen/mocs_compilation.cpp	79381e2a8d6c0c80
-56	219	7456887832215472	C:/Users/Sequence/Desktop/Fourth&FinalYear/COS3711 - Advanced Programming/Assignment 3/build-BookProject-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/BookProject_autogen/timestamp	79381e2a8d6c0c80
-56	219	7456887832215472	C:/Users/Sequence/Desktop/Fourth&FinalYear/COS3711 - Advanced Programming/Assignment 3/build-BookProject-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/BookProject_autogen/mocs_compilation.cpp	79381e2a8d6c0c80
-221	3421	7456887833859492	CMakeFiles/BookProject.dir/BookProject_autogen/mocs_compilation.cpp.obj	ea2671bf8b678e24
-229	3473	7456887833944772	CMakeFiles/BookProject.dir/book.cpp.obj	4ff53dc2a3b3a981
-59	324	7456887904688304	BookProject_autogen/timestamp	79381e2a8d6c0c80
-59	324	7456887904688304	BookProject_autogen/mocs_compilation.cpp	79381e2a8d6c0c80
-59	324	7456887904688304	C:/Users/Sequence/Desktop/Fourth&FinalYear/COS3711 - Advanced Programming/Assignment 3/build-BookProject-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/BookProject_autogen/timestamp	79381e2a8d6c0c80
-59	324	7456887904688304	C:/Users/Sequence/Desktop/Fourth&FinalYear/COS3711 - Advanced Programming/Assignment 3/build-BookProject-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/BookProject_autogen/mocs_compilation.cpp	79381e2a8d6c0c80
-334	3908	7456887907438641	CMakeFiles/BookProject.dir/book.cpp.obj	4ff53dc2a3b3a981
-325	3928	7456887907356328	CMakeFiles/BookProject.dir/BookProject_autogen/mocs_compilation.cpp.obj	ea2671bf8b678e24
-58	216	7456888255967034	BookProject_autogen/timestamp	79381e2a8d6c0c80
-58	216	7456888255967034	BookProject_autogen/mocs_compilation.cpp	79381e2a8d6c0c80
-58	216	7456888255967034	C:/Users/Sequence/Desktop/Fourth&FinalYear/COS3711 - Advanced Programming/Assignment 3/build-BookProject-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/BookProject_autogen/timestamp	79381e2a8d6c0c80
-58	216	7456888255967034	C:/Users/Sequence/Desktop/Fourth&FinalYear/COS3711 - Advanced Programming/Assignment 3/build-BookProject-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/BookProject_autogen/mocs_compilation.cpp	79381e2a8d6c0c80
-225	3233	7456888257628133	CMakeFiles/BookProject.dir/book.cpp.obj	4ff53dc2a3b3a981
-217	3276	7456888257556501	CMakeFiles/BookProject.dir/BookProject_autogen/mocs_compilation.cpp.obj	ea2671bf8b678e24
-221	3291	7456888257598077	CMakeFiles/BookProject.dir/main.cpp.obj	d273c5951cc54dbc
-3291	3468	7456888288293703	BookProject.exe	74bb2a250e27b8b4
-44	246	7456888544485229	BookProject_autogen/timestamp	79381e2a8d6c0c80
-44	246	7456888544485229	BookProject_autogen/mocs_compilation.cpp	79381e2a8d6c0c80
-44	246	7456888544485229	C:/Users/Sequence/Desktop/Fourth&FinalYear/COS3711 - Advanced Programming/Assignment 3/build-BookProject-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/BookProject_autogen/timestamp	79381e2a8d6c0c80
-44	246	7456888544485229	C:/Users/Sequence/Desktop/Fourth&FinalYear/COS3711 - Advanced Programming/Assignment 3/build-BookProject-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/BookProject_autogen/mocs_compilation.cpp	79381e2a8d6c0c80
-255	2387	7456888546586132	CMakeFiles/BookProject.dir/book.cpp.obj	4ff53dc2a3b3a981
-247	2434	7456888546516113	CMakeFiles/BookProject.dir/BookProject_autogen/mocs_compilation.cpp.obj	ea2671bf8b678e24
-251	2511	7456888546556098	CMakeFiles/BookProject.dir/main.cpp.obj	d273c5951cc54dbc
-2512	2681	7456888569161046	BookProject.exe	74bb2a250e27b8b4
-43	233	7456889066428224	BookProject_autogen/timestamp	79381e2a8d6c0c80
-43	233	7456889066428224	BookProject_autogen/mocs_compilation.cpp	79381e2a8d6c0c80
-43	233	7456889066428224	C:/Users/Sequence/Desktop/Fourth&FinalYear/COS3711 - Advanced Programming/Assignment 3/build-BookProject-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/BookProject_autogen/timestamp	79381e2a8d6c0c80
-43	233	7456889066428224	C:/Users/Sequence/Desktop/Fourth&FinalYear/COS3711 - Advanced Programming/Assignment 3/build-BookProject-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/BookProject_autogen/mocs_compilation.cpp	79381e2a8d6c0c80
-242	2512	7456889068428718	CMakeFiles/BookProject.dir/book.cpp.obj	4ff53dc2a3b3a981
-234	2534	7456889068347775	CMakeFiles/BookProject.dir/BookProject_autogen/mocs_compilation.cpp.obj	ea2671bf8b678e24
-238	2580	7456889068382969	CMakeFiles/BookProject.dir/main.cpp.obj	d273c5951cc54dbc
-2580	2758	7456889091806872	BookProject.exe	74bb2a250e27b8b4
-26	169	7456889407642767	BookProject_autogen/timestamp	79381e2a8d6c0c80
-26	169	7456889407642767	BookProject_autogen/mocs_compilation.cpp	79381e2a8d6c0c80
-26	169	7456889407642767	C:/Users/Sequence/Desktop/Fourth&FinalYear/COS3711 - Advanced Programming/Assignment 3/build-BookProject-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/BookProject_autogen/timestamp	79381e2a8d6c0c80
-26	169	7456889407642767	C:/Users/Sequence/Desktop/Fourth&FinalYear/COS3711 - Advanced Programming/Assignment 3/build-BookProject-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/BookProject_autogen/mocs_compilation.cpp	79381e2a8d6c0c80
-170	3801	7456889409085981	CMakeFiles/BookProject.dir/BookProject_autogen/mocs_compilation.cpp.obj	ea2671bf8b678e24
-174	3839	7456889409126060	CMakeFiles/BookProject.dir/main.cpp.obj	d273c5951cc54dbc
-177	4127	7456889409156097	CMakeFiles/BookProject.dir/book.cpp.obj	4ff53dc2a3b3a981
-4127	4347	7456889448659447	BookProject.exe	74bb2a250e27b8b4
 39	232	7456890774031663	BookProject_autogen/timestamp	79381e2a8d6c0c80
 39	232	7456890774031663	BookProject_autogen/mocs_compilation.cpp	79381e2a8d6c0c80
-39	232	7456890774031663	C:/Users/Sequence/Desktop/Fourth&FinalYear/COS3711 - Advanced Programming/Assignment 3/build-BookProject-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/BookProject_autogen/timestamp	79381e2a8d6c0c80
 39	232	7456890774031663	C:/Users/Sequence/Desktop/Fourth&FinalYear/COS3711 - Advanced Programming/Assignment 3/build-BookProject-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/BookProject_autogen/mocs_compilation.cpp	79381e2a8d6c0c80
-233	2528	7456890775977624	CMakeFiles/BookProject.dir/BookProject_autogen/mocs_compilation.cpp.obj	ea2671bf8b678e24
-242	2568	7456890776066655	CMakeFiles/BookProject.dir/book.cpp.obj	4ff53dc2a3b3a981
-238	2631	7456890776021566	CMakeFiles/BookProject.dir/main.cpp.obj	d273c5951cc54dbc
+39	232	7456890774031663	C:/Users/Sequence/Desktop/Fourth&FinalYear/COS3711 - Advanced Programming/Assignment 3/build-BookProject-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/BookProject_autogen/timestamp	79381e2a8d6c0c80
 2631	2821	7456890799953007	BookProject.exe	74bb2a250e27b8b4
+238	2631	7456890776021566	CMakeFiles/BookProject.dir/main.cpp.obj	d273c5951cc54dbc
+242	2568	7456890776066655	CMakeFiles/BookProject.dir/book.cpp.obj	4ff53dc2a3b3a981
+233	2528	7456890775977624	CMakeFiles/BookProject.dir/BookProject_autogen/mocs_compilation.cpp.obj	ea2671bf8b678e24
+46	903	7456909600488038	BookProject_autogen/timestamp	79381e2a8d6c0c80
+46	903	7456909600488038	BookProject_autogen/mocs_compilation.cpp	79381e2a8d6c0c80
+46	903	7456909600488038	C:/Users/Sequence/Desktop/Fourth&FinalYear/COS3711 - Advanced Programming/Assignment 3/build-BookProject-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/BookProject_autogen/timestamp	79381e2a8d6c0c80
+46	903	7456909600488038	C:/Users/Sequence/Desktop/Fourth&FinalYear/COS3711 - Advanced Programming/Assignment 3/build-BookProject-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/BookProject_autogen/mocs_compilation.cpp	79381e2a8d6c0c80
+912	6796	7456909601411864	CMakeFiles/BookProject.dir/book.cpp.obj	4ff53dc2a3b3a981
+904	6800	7456909601336415	CMakeFiles/BookProject.dir/BookProject_autogen/mocs_compilation.cpp.obj	ea2671bf8b678e24
+908	6830	7456909601376458	CMakeFiles/BookProject.dir/main.cpp.obj	d273c5951cc54dbc
+35	228	7456910270286724	BookProject_autogen/timestamp	79381e2a8d6c0c80
+35	228	7456910270286724	BookProject_autogen/mocs_compilation.cpp	79381e2a8d6c0c80
+35	228	7456910270286724	C:/Users/Sequence/Desktop/Fourth&FinalYear/COS3711 - Advanced Programming/Assignment 3/build-BookProject-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/BookProject_autogen/timestamp	79381e2a8d6c0c80
+35	228	7456910270286724	C:/Users/Sequence/Desktop/Fourth&FinalYear/COS3711 - Advanced Programming/Assignment 3/build-BookProject-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/BookProject_autogen/mocs_compilation.cpp	79381e2a8d6c0c80
+240	4013	7456910272339795	CMakeFiles/BookProject.dir/book.cpp.obj	4ff53dc2a3b3a981
+229	4082	7456910272234459	CMakeFiles/BookProject.dir/BookProject_autogen/mocs_compilation.cpp.obj	ea2671bf8b678e24
+233	4175	7456910272274426	CMakeFiles/BookProject.dir/main.cpp.obj	d273c5951cc54dbc
+25	180	7456910431153352	BookProject_autogen/timestamp	79381e2a8d6c0c80
+25	180	7456910431153352	BookProject_autogen/mocs_compilation.cpp	79381e2a8d6c0c80
+25	180	7456910431153352	C:/Users/Sequence/Desktop/Fourth&FinalYear/COS3711 - Advanced Programming/Assignment 3/build-BookProject-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/BookProject_autogen/timestamp	79381e2a8d6c0c80
+25	180	7456910431153352	C:/Users/Sequence/Desktop/Fourth&FinalYear/COS3711 - Advanced Programming/Assignment 3/build-BookProject-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/BookProject_autogen/mocs_compilation.cpp	79381e2a8d6c0c80
+181	3527	7456910432707911	CMakeFiles/BookProject.dir/BookProject_autogen/mocs_compilation.cpp.obj	ea2671bf8b678e24
+189	3562	7456910432787968	CMakeFiles/BookProject.dir/book.cpp.obj	4ff53dc2a3b3a981
+184	3634	7456910432747973	CMakeFiles/BookProject.dir/main.cpp.obj	d273c5951cc54dbc
+194	4007	7456910432833192	CMakeFiles/BookProject.dir/bookwriter.cpp.obj	659c12be1e6bf36a
+4007	4280	7456910470979324	BookProject.exe	464a4dfb3b6f74f8
+53	233	7456916208219314	BookProject_autogen/timestamp	79381e2a8d6c0c80
+53	233	7456916208219314	BookProject_autogen/mocs_compilation.cpp	79381e2a8d6c0c80
+53	233	7456916208219314	C:/Users/Sequence/Desktop/Fourth&FinalYear/COS3711 - Advanced Programming/Assignment 3/build-BookProject-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/BookProject_autogen/timestamp	79381e2a8d6c0c80
+53	233	7456916208219314	C:/Users/Sequence/Desktop/Fourth&FinalYear/COS3711 - Advanced Programming/Assignment 3/build-BookProject-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/BookProject_autogen/mocs_compilation.cpp	79381e2a8d6c0c80
+239	3595	7456916210086824	CMakeFiles/BookProject.dir/main.cpp.obj	d273c5951cc54dbc
+235	3633	7456916210036854	CMakeFiles/BookProject.dir/BookProject_autogen/mocs_compilation.cpp.obj	ea2671bf8b678e24
+243	3755	7456916210124193	CMakeFiles/BookProject.dir/book.cpp.obj	4ff53dc2a3b3a981
+247	4156	7456916210167676	CMakeFiles/BookProject.dir/bookwriter.cpp.obj	659c12be1e6bf36a
+4156	4344	7456916249254602	BookProject.exe	464a4dfb3b6f74f8
+42	235	7456919213114464	BookProject_autogen/timestamp	79381e2a8d6c0c80
+42	235	7456919213114464	BookProject_autogen/mocs_compilation.cpp	79381e2a8d6c0c80
+42	235	7456919213114464	C:/Users/Sequence/Desktop/Fourth&FinalYear/COS3711 - Advanced Programming/Assignment 3/build-BookProject-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/BookProject_autogen/timestamp	79381e2a8d6c0c80
+42	235	7456919213114464	C:/Users/Sequence/Desktop/Fourth&FinalYear/COS3711 - Advanced Programming/Assignment 3/build-BookProject-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/BookProject_autogen/mocs_compilation.cpp	79381e2a8d6c0c80
+240	2613	7456919215091167	CMakeFiles/BookProject.dir/main.cpp.obj	d273c5951cc54dbc
+245	2626	7456919215146940	CMakeFiles/BookProject.dir/book.cpp.obj	4ff53dc2a3b3a981
+236	2638	7456919215059171	CMakeFiles/BookProject.dir/BookProject_autogen/mocs_compilation.cpp.obj	ea2671bf8b678e24
+252	2920	7456919215212622	CMakeFiles/BookProject.dir/bookwriter.cpp.obj	659c12be1e6bf36a
+2920	3106	7456919241891564	BookProject.exe	464a4dfb3b6f74f8

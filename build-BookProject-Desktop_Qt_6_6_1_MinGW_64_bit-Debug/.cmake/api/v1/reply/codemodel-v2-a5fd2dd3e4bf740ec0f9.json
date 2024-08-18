@@ -7,7 +7,7 @@
 				{
 					"build" : ".",
 					"hasInstallRule" : true,
-					"jsonFile" : "directory-.-Debug-1eb5ffd2a055e81a01b9.json",
+					"jsonFile" : "directory-.-Debug-d8ece0dd1de4b93c0dd9.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.16"
@@ -44,7 +44,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "BookProject::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-BookProject-Debug-87ddc5ed84358fa71f1e.json",
+					"jsonFile" : "target-BookProject-Debug-2875e731145832eebde8.json",
 					"name" : "BookProject",
 					"projectIndex" : 0
 				},

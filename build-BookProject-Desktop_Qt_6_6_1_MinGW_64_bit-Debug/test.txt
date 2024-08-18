@@ -1,0 +1,4 @@
+Title: A Good Book
+Authors: Auth1, Auth2, Auth3
+ISBN: ABCD1234
+Publication Date: 2024-08-18
