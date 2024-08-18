@@ -10,14 +10,16 @@ set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 find_package(QT NAMES Qt6 Qt5 REQUIRED COMPONENTS Core)
-find_package(Qt${QT_VERSION_MAJOR} REQUIRED COMPONENTS Core)
+find_package(Qt${QT_VERSION_MAJOR} REQUIRED COMPONENTS Core Widgets Xml)
+
 
 add_executable(BookProject
   main.cpp
   book.h book.cpp
   bookwriter.h bookwriter.cpp
+  bookinput.h bookinput.cpp
 )
-target_link_libraries(BookProject Qt${QT_VERSION_MAJOR}::Core)
+target_link_libraries(BookProject PRIVATE Qt6::Widgets Qt6::Xml Qt6::Core Qt${QT_VERSION_MAJOR}::Core)
 
 include(GNUInstallDirs)
 install(TARGETS BookProject

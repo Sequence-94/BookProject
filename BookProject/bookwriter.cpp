@@ -13,6 +13,7 @@ void BookWriter::saveBook(const Book &book, const QString &fname)
         out << "Authors: "<<book.getAuthors().join(", ")<<Qt::endl;
         out << "ISBN: "<<book.getIsbn()<<Qt::endl;
         out << "Publication Date: "<<book.getPublicationDate().toString("yyyy-MM-dd")<<Qt::endl;
+        out << "----------------------------------"<<Qt::endl;
         file.close();
         qDebug()<<"Book saved to"<<fname;
     }else

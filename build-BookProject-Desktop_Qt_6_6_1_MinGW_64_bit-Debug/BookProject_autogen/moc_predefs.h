@@ -18,6 +18,7 @@
 #define __WINT_MAX__ 0xffff
 #define __FLT32_MIN_EXP__ (-125)
 #define __cpp_static_assert 201411L
+#define QT_GUI_LIB 1
 #define __ORDER_LITTLE_ENDIAN__ 1234
 #define __SIZE_MAX__ 0xffffffffffffffffULL
 #define __WCHAR_MAX__ 0xffff
@@ -146,6 +147,7 @@
 #define __MMX_WITH_SSE__ 1
 #define _fastcall __attribute__((__fastcall__))
 #define __LDBL_HAS_DENORM__ 1
+#define QT_WIDGETS_LIB 1
 #define __cplusplus 201703L
 #define __cpp_ref_qualifiers 200710L
 #define __DEC32_MIN__ 1E-95DF
@@ -161,6 +163,7 @@
 #define __PTRDIFF_MAX__ 0x7fffffffffffffffLL
 #define __amd64 1
 #define __tune_core2__ 1
+#define QT_XML_LIB 1
 #define __ATOMIC_HLE_ACQUIRE 65536
 #define __GNUG__ 11
 #define __LONG_LONG_MAX__ 0x7fffffffffffffffLL

@@ -1,0 +1,5 @@
+Title: A nICE Book
+Authors: Auth1, Auth2
+ISBN: ghABCD12309
+Publication Date: 2025-08-28
+----------------------------------
