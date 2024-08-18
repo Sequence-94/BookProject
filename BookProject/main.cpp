@@ -1,19 +1,33 @@
 #include <QCoreApplication>
-
+#include "book.h"
+#include <QDebug>
 int main(int argc, char *argv[])
 {
     QCoreApplication a(argc, argv);
 
-    // Set up code that uses the Qt event loop here.
-    // Call a.quit() or a.exit() to quit the application.
-    // A not very useful example would be including
-    // #include <QTimer>
-    // near the top of the file and calling
-    // QTimer::singleShot(5000, &a, &QCoreApplication::quit);
-    // which quits the application after 5 seconds.
+    bool result = true;
+    Book b0;
 
-    // If you do not need a running Qt event loop, remove the call
-    // to a.exec() or use the Non-Qt Plain C++ Application template.
+    result &= (b0.getTitle()=="");
+    result &= (b0.getAuthors().size()==0);
+    result &= (b0.getIsbn()=="");
+    result &= (b0.getPublicationDate()==QDate());
+
+    b0.setTile("Best Book");
+    b0.setAuthors({"Auth1","Auth2"});
+    b0.setIsbn("EDFH5678");
+    b0.setPublicationDate(QDate::currentDate());
+
+    qDebug()<<b0.getTitle();
+    qDebug()<<b0.getAuthors();
+    qDebug()<<b0.getIsbn();
+    qDebug()<<b0.getPublicationDate();
+
+    Book b1("A Good Book",{"Auth1","Auth2","Auth3"},"ABCD1234",QDate::currentDate());
+
+
+
+
 
     return a.exec();
 }

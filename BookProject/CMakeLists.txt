@@ -14,6 +14,7 @@ find_package(Qt${QT_VERSION_MAJOR} REQUIRED COMPONENTS Core)
 
 add_executable(BookProject
   main.cpp
+  book.h book.cpp
 )
 target_link_libraries(BookProject Qt${QT_VERSION_MAJOR}::Core)
 

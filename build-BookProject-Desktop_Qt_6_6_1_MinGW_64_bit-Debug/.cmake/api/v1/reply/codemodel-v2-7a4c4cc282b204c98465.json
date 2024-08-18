@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-b3548af38e464057f6fc.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "BookProject",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "BookProject::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-BookProject-Debug-91dc999d84a2ba7f26a5.json",
+					"name" : "BookProject",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "BookProject_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-BookProject_autogen-Debug-baa21659ee4806e49080.json",
+					"name" : "BookProject_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "BookProject_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-BookProject_autogen_timestamp_deps-Debug-6dd20b94cc144574db7b.json",
+					"name" : "BookProject_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Sequence/Desktop/Fourth&FinalYear/COS3711 - Advanced Programming/Assignment 3/build-BookProject-Desktop_Qt_6_6_1_MinGW_64_bit-Debug",
+		"source" : "C:/Users/Sequence/Desktop/Fourth&FinalYear/COS3711 - Advanced Programming/Assignment 3/BookProject"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
