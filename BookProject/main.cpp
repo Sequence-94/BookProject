@@ -10,6 +10,5 @@ int main(int argc, char *argv[])
     BookInput BookInput;
     BookInput.show();
 
-
     return a.exec();
 }

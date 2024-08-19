@@ -7,24 +7,36 @@ Book::Book(QObject *parent)
 Book::Book(const QString &t, const QStringList &a, const QString &i, const QDate &p):
     m_Title(t), m_Authors(a), m_Isbn(i), m_PublicationDate(p) {}
 
-void Book::setTile(const QString &t)
+void Book::setTitle(const QString &t)
 {
-    m_Title = t;
+    if (m_Title != t){
+        m_Title = t;
+        emit titleChanged();
+    }
 }
 
 void Book::setAuthors(const QStringList &a)
 {
-    m_Authors = a;
+    if(m_Authors != a){
+        m_Authors =a;
+        emit titleChanged();
+    }
 }
 
 void Book::setIsbn(const QString &i)
 {
-    m_Isbn = i;
+    if(m_Isbn != i){
+        m_Isbn =i;
+        emit isbnChanged();
+    }
 }
 
 void Book::setPublicationDate(const QDate &p)
 {
-    m_PublicationDate = p;
+    if(m_PublicationDate != p){
+        m_PublicationDate = p;
+        emit publicationDateChanged();
+    }
 }
 
 QString Book::getTitle() const

@@ -9,7 +9,7 @@ class BookWriter : public QObject
 {
     Q_OBJECT
 public:
-
+    explicit BookWriter(QObject *parent = nullptr);
     void saveBook(const Book &book, const QString &fname);
 
 signals:
